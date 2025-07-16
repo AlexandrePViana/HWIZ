@@ -1,0 +1,14 @@
+E:\Projetos\HWIZ\HWIZ.Data\bin\Debug\net9.0\HWIZ.Data.deps.json
+E:\Projetos\HWIZ\HWIZ.Data\bin\Debug\net9.0\HWIZ.Data.runtimeconfig.json
+E:\Projetos\HWIZ\HWIZ.Data\bin\Debug\net9.0\HWIZ.Data.dll
+E:\Projetos\HWIZ\HWIZ.Data\bin\Debug\net9.0\HWIZ.Data.pdb
+E:\Projetos\HWIZ\HWIZ.Data\obj\Debug\net9.0\HWIZ.Data.csproj.AssemblyReference.cache
+E:\Projetos\HWIZ\HWIZ.Data\obj\Debug\net9.0\HWIZ.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\HWIZ\HWIZ.Data\obj\Debug\net9.0\HWIZ.Data.AssemblyInfoInputs.cache
+E:\Projetos\HWIZ\HWIZ.Data\obj\Debug\net9.0\HWIZ.Data.AssemblyInfo.cs
+E:\Projetos\HWIZ\HWIZ.Data\obj\Debug\net9.0\HWIZ.Data.csproj.CoreCompileInputs.cache
+E:\Projetos\HWIZ\HWIZ.Data\obj\Debug\net9.0\HWIZ.Data.dll
+E:\Projetos\HWIZ\HWIZ.Data\obj\Debug\net9.0\refint\HWIZ.Data.dll
+E:\Projetos\HWIZ\HWIZ.Data\obj\Debug\net9.0\HWIZ.Data.pdb
+E:\Projetos\HWIZ\HWIZ.Data\obj\Debug\net9.0\HWIZ.Data.genruntimeconfig.cache
+E:\Projetos\HWIZ\HWIZ.Data\obj\Debug\net9.0\ref\HWIZ.Data.dll

@@ -1,0 +1,38 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+<MudGrid Justify="Justify.Center">
+    <MudItem xs="6">
+        <MudTable Items="@utilizadores" Hover="true" Breakpoint="Breakpoint.Sm">
+            <HeaderContent>
+                <MudTh>ID</MudTh>
+                <MudTh>Nome</MudTh>
+                <MudTh>Email</MudTh>
+            </HeaderContent>
+            <RowTemplate>
+                <MudTd DataLabel="ID">@context.Id</MudTd>
+                <MudTd DataLabel="Nome">@context.NomeUtilizador</MudTd>
+                <MudTd DataLabel="Email">@context.EmailUtilizador</MudTd>
+            </RowTemplate>
+        </MudTable>
+    </MudItem>
+    <MudItem xs="6">
+        <MudTable Items="@ferias" Hover="true" Breakpoint="Breakpoint.Sm">
+            <HeaderContent>
+                <MudTh>ID</MudTh>
+                <MudTh>Utilizador</MudTh>
+                <MudTh>Data Inicio</MudTh>
+                <MudTh>Data Fim</MudTh>
+                <MudTh>Created At</MudTh>
+            </HeaderContent>
+            <RowTemplate>
+                <MudTd DataLabel="ID">@context.Id</MudTd>
+                <MudTd DataLabel="Utilizador">@GetUserNameById(context.IdUtilizador)</MudTd>
+                <MudTd DataLabel="Data Inicio">@context.DataInicio</MudTd>
+                <MudTd DataLabel="Data Fim">@context.DataFim</MudTd>
+                <MudTd DataLabel="Created At">@context.CreatedAt</MudTd>
+            </RowTemplate>
+        </MudTable>
+    </MudItem>
+</MudGrid>
+

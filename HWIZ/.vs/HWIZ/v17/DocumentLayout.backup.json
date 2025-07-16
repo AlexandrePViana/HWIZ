@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projetos\\HWIZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51D99AB7-5636-4998-942A-C5DAFAD396DE}|HWIZ.Web\\HWIZ.Web.csproj|e:\\projetos\\hwiz\\hwiz.web\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D99AB7-5636-4998-942A-C5DAFAD396DE}|HWIZ.Web\\HWIZ.Web.csproj|solutionrelative:hwiz.web\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D99AB7-5636-4998-942A-C5DAFAD396DE}|HWIZ.Web\\HWIZ.Web.csproj|e:\\projetos\\hwiz\\hwiz.web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51D99AB7-5636-4998-942A-C5DAFAD396DE}|HWIZ.Web\\HWIZ.Web.csproj|solutionrelative:hwiz.web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4431C059-8F58-403E-BCFC-9E3F896D3BEF}|HWIZ.Domain\\HWIZ.Domain.csproj|e:\\projetos\\hwiz\\hwiz.domain\\services\\utilizadoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4431C059-8F58-403E-BCFC-9E3F896D3BEF}|HWIZ.Domain\\HWIZ.Domain.csproj|solutionrelative:hwiz.domain\\services\\utilizadoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4431C059-8F58-403E-BCFC-9E3F896D3BEF}|HWIZ.Domain\\HWIZ.Domain.csproj|e:\\projetos\\hwiz\\hwiz.domain\\datatransferobject\\feriasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4431C059-8F58-403E-BCFC-9E3F896D3BEF}|HWIZ.Domain\\HWIZ.Domain.csproj|solutionrelative:hwiz.domain\\datatransferobject\\feriasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D99AB7-5636-4998-942A-C5DAFAD396DE}|HWIZ.Web\\HWIZ.Web.csproj|e:\\projetos\\hwiz\\hwiz.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D99AB7-5636-4998-942A-C5DAFAD396DE}|HWIZ.Web\\HWIZ.Web.csproj|solutionrelative:hwiz.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4431C059-8F58-403E-BCFC-9E3F896D3BEF}|HWIZ.Domain\\HWIZ.Domain.csproj|e:\\projetos\\hwiz\\hwiz.domain\\services\\feriasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4431C059-8F58-403E-BCFC-9E3F896D3BEF}|HWIZ.Domain\\HWIZ.Domain.csproj|solutionrelative:hwiz.domain\\services\\feriasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4431C059-8F58-403E-BCFC-9E3F896D3BEF}|HWIZ.Domain\\HWIZ.Domain.csproj|e:\\projetos\\hwiz\\hwiz.domain\\classmapper\\simplemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4431C059-8F58-403E-BCFC-9E3F896D3BEF}|HWIZ.Domain\\HWIZ.Domain.csproj|solutionrelative:hwiz.domain\\classmapper\\simplemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C193E472-333A-4820-955E-EC27BA9E23F4}|HWIZ.Data\\HWIZ.Data.csproj|e:\\projetos\\hwiz\\hwiz.data\\models\\ferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C193E472-333A-4820-955E-EC27BA9E23F4}|HWIZ.Data\\HWIZ.Data.csproj|solutionrelative:hwiz.data\\models\\ferias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4431C059-8F58-403E-BCFC-9E3F896D3BEF}|HWIZ.Domain\\HWIZ.Domain.csproj|e:\\projetos\\hwiz\\hwiz.domain\\datatransferobject\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4431C059-8F58-403E-BCFC-9E3F896D3BEF}|HWIZ.Domain\\HWIZ.Domain.csproj|solutionrelative:hwiz.domain\\datatransferobject\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4431C059-8F58-403E-BCFC-9E3F896D3BEF}|HWIZ.Domain\\HWIZ.Domain.csproj|e:\\projetos\\hwiz\\hwiz.domain\\interfaces\\iferiasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4431C059-8F58-403E-BCFC-9E3F896D3BEF}|HWIZ.Domain\\HWIZ.Domain.csproj|solutionrelative:hwiz.domain\\interfaces\\iferiasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4431C059-8F58-403E-BCFC-9E3F896D3BEF}|HWIZ.Domain\\HWIZ.Domain.csproj|e:\\projetos\\hwiz\\hwiz.domain\\interfaces\\iutilizadoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4431C059-8F58-403E-BCFC-9E3F896D3BEF}|HWIZ.Domain\\HWIZ.Domain.csproj|solutionrelative:hwiz.domain\\interfaces\\iutilizadoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor.cs",
+              "DocumentMoniker": "E:\\Projetos\\HWIZ\\HWIZ.Web\\Components\\Pages\\Home.razor.cs",
+              "RelativeDocumentMoniker": "HWIZ.Web\\Components\\Pages\\Home.razor.cs",
+              "ToolTip": "E:\\Projetos\\HWIZ\\HWIZ.Web\\Components\\Pages\\Home.razor.cs",
+              "RelativeToolTip": "HWIZ.Web\\Components\\Pages\\Home.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:24:03.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "E:\\Projetos\\HWIZ\\HWIZ.Web\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "HWIZ.Web\\Components\\Pages\\Home.razor",
+              "ToolTip": "E:\\Projetos\\HWIZ\\HWIZ.Web\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "HWIZ.Web\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T22:23:27.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projetos\\HWIZ\\HWIZ.Web\\Program.cs",
+              "RelativeDocumentMoniker": "HWIZ.Web\\Program.cs",
+              "ToolTip": "E:\\Projetos\\HWIZ\\HWIZ.Web\\Program.cs",
+              "RelativeToolTip": "HWIZ.Web\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:23:04.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseDTO.cs",
+              "DocumentMoniker": "E:\\Projetos\\HWIZ\\HWIZ.Domain\\DataTransferObject\\BaseDTO.cs",
+              "RelativeDocumentMoniker": "HWIZ.Domain\\DataTransferObject\\BaseDTO.cs",
+              "ToolTip": "E:\\Projetos\\HWIZ\\HWIZ.Domain\\DataTransferObject\\BaseDTO.cs",
+              "RelativeToolTip": "HWIZ.Domain\\DataTransferObject\\BaseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:22:00.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FeriasDTO.cs",
+              "DocumentMoniker": "E:\\Projetos\\HWIZ\\HWIZ.Domain\\DataTransferObject\\FeriasDTO.cs",
+              "RelativeDocumentMoniker": "HWIZ.Domain\\DataTransferObject\\FeriasDTO.cs",
+              "ToolTip": "E:\\Projetos\\HWIZ\\HWIZ.Domain\\DataTransferObject\\FeriasDTO.cs",
+              "RelativeToolTip": "HWIZ.Domain\\DataTransferObject\\FeriasDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:21:58.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ferias.cs",
+              "DocumentMoniker": "E:\\Projetos\\HWIZ\\HWIZ.Data\\Models\\Ferias.cs",
+              "RelativeDocumentMoniker": "HWIZ.Data\\Models\\Ferias.cs",
+              "ToolTip": "E:\\Projetos\\HWIZ\\HWIZ.Data\\Models\\Ferias.cs",
+              "RelativeToolTip": "HWIZ.Data\\Models\\Ferias.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:21:53.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimpleMapper.cs",
+              "DocumentMoniker": "E:\\Projetos\\HWIZ\\HWIZ.Domain\\ClassMapper\\SimpleMapper.cs",
+              "RelativeDocumentMoniker": "HWIZ.Domain\\ClassMapper\\SimpleMapper.cs",
+              "ToolTip": "E:\\Projetos\\HWIZ\\HWIZ.Domain\\ClassMapper\\SimpleMapper.cs",
+              "RelativeToolTip": "HWIZ.Domain\\ClassMapper\\SimpleMapper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:21:43.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UtilizadoresService.cs",
+              "DocumentMoniker": "E:\\Projetos\\HWIZ\\HWIZ.Domain\\Services\\UtilizadoresService.cs",
+              "RelativeDocumentMoniker": "HWIZ.Domain\\Services\\UtilizadoresService.cs",
+              "ToolTip": "E:\\Projetos\\HWIZ\\HWIZ.Domain\\Services\\UtilizadoresService.cs",
+              "RelativeToolTip": "HWIZ.Domain\\Services\\UtilizadoresService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:20:50.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FeriasService.cs",
+              "DocumentMoniker": "E:\\Projetos\\HWIZ\\HWIZ.Domain\\Services\\FeriasService.cs",
+              "RelativeDocumentMoniker": "HWIZ.Domain\\Services\\FeriasService.cs",
+              "ToolTip": "E:\\Projetos\\HWIZ\\HWIZ.Domain\\Services\\FeriasService.cs",
+              "RelativeToolTip": "HWIZ.Domain\\Services\\FeriasService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:20:33.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUtilizadoresService.cs",
+              "DocumentMoniker": "E:\\Projetos\\HWIZ\\HWIZ.Domain\\Interfaces\\IUtilizadoresService.cs",
+              "RelativeDocumentMoniker": "HWIZ.Domain\\Interfaces\\IUtilizadoresService.cs",
+              "ToolTip": "E:\\Projetos\\HWIZ\\HWIZ.Domain\\Interfaces\\IUtilizadoresService.cs",
+              "RelativeToolTip": "HWIZ.Domain\\Interfaces\\IUtilizadoresService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:19:58.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFeriasService.cs",
+              "DocumentMoniker": "E:\\Projetos\\HWIZ\\HWIZ.Domain\\Interfaces\\IFeriasService.cs",
+              "RelativeDocumentMoniker": "HWIZ.Domain\\Interfaces\\IFeriasService.cs",
+              "ToolTip": "E:\\Projetos\\HWIZ\\HWIZ.Domain\\Interfaces\\IFeriasService.cs",
+              "RelativeToolTip": "HWIZ.Domain\\Interfaces\\IFeriasService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:19:52.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

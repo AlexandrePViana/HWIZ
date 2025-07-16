@@ -1,0 +1,15 @@
+E:\Projetos\HWIZ\HWIZ.Domain\bin\Debug\net9.0\HWIZ.Domain.deps.json
+E:\Projetos\HWIZ\HWIZ.Domain\bin\Debug\net9.0\HWIZ.Domain.dll
+E:\Projetos\HWIZ\HWIZ.Domain\bin\Debug\net9.0\HWIZ.Domain.pdb
+E:\Projetos\HWIZ\HWIZ.Domain\bin\Debug\net9.0\HWIZ.Data.dll
+E:\Projetos\HWIZ\HWIZ.Domain\bin\Debug\net9.0\HWIZ.Data.pdb
+E:\Projetos\HWIZ\HWIZ.Domain\obj\Debug\net9.0\HWIZ.Domain.csproj.AssemblyReference.cache
+E:\Projetos\HWIZ\HWIZ.Domain\obj\Debug\net9.0\HWIZ.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\HWIZ\HWIZ.Domain\obj\Debug\net9.0\HWIZ.Domain.AssemblyInfoInputs.cache
+E:\Projetos\HWIZ\HWIZ.Domain\obj\Debug\net9.0\HWIZ.Domain.AssemblyInfo.cs
+E:\Projetos\HWIZ\HWIZ.Domain\obj\Debug\net9.0\HWIZ.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\HWIZ\HWIZ.Domain\obj\Debug\net9.0\HWIZ.Dom.8C1C080A.Up2Date
+E:\Projetos\HWIZ\HWIZ.Domain\obj\Debug\net9.0\HWIZ.Domain.dll
+E:\Projetos\HWIZ\HWIZ.Domain\obj\Debug\net9.0\refint\HWIZ.Domain.dll
+E:\Projetos\HWIZ\HWIZ.Domain\obj\Debug\net9.0\HWIZ.Domain.pdb
+E:\Projetos\HWIZ\HWIZ.Domain\obj\Debug\net9.0\ref\HWIZ.Domain.dll
